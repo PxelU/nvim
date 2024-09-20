@@ -1,0 +1,8 @@
+tags
+test.sh
+.luarc.json
+init.lua.bak
+nvim
+.DS_Store
+spell/
+.stylua.toml
