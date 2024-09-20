@@ -5,4 +5,5 @@ init.lua.bak
 nvim
 .DS_Store
 spell/
+lazy-lock.json
 .stylua.toml
